@@ -7,3 +7,5 @@ Services are
   * Trac
   * CI platform (Jenkins)
   * Application repository and porting procedure
+
+Included in this repository are status update presentations regarding the requests from users.
